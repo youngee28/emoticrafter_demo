@@ -102,7 +102,7 @@ python inference5x5.py \
   --seed 0
 ```
 
-
+The raw image data has been uploaded to [this url](https://pan.baidu.com/s/11utxyXJHp0ToUu7yS4ZOSg?pwd=7a7s). However, EmotiCrafter did not use image data for model training.
 
 We thank the **[Stable Diffusion XL (SDXL)](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)**, **[FindingEmo](https://arxiv.org/abs/2402.01355)**, **[OASIS](https://link.springer.com/content/pdf/10.3758/s13428-016-0715-3.pdf)**, and **[Emotic](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w41/papers/Lapedriza_EMOTIC_Emotions_in_CVPR_2017_paper.pdf)** for the their excellent works, which made this work possible.
 If you use **EmotiCrafter** in your research or applications, please cite our work.
