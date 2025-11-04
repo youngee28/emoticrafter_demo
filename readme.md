@@ -108,10 +108,11 @@ We thank the **[Stable Diffusion XL (SDXL)](https://huggingface.co/stabilityai/s
 If you use **EmotiCrafter** in your research or applications, please cite our work.
 
 ```
-@article{dang2025emoticrafter,
+@inproceedings{dang2025emoticrafter,
   title={Emoticrafter: Text-to-emotional-image generation based on valence-arousal model},
   author={Dang, Shengqi and He, Yi and Ling, Long and Qian, Ziqing and Zhao, Nanxuan and Cao, Nan},
-  journal={arXiv preprint arXiv:2501.05710},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={15218--15228},
   year={2025}
 }
 ```
